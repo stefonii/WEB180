@@ -1,0 +1,6 @@
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/Lab 1/Lab1/Lab1/bin/Debug/Lab1.exe
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/Lab 1/Lab1/Lab1/bin/Debug/Lab1.pdb
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/Lab 1/Lab1/Lab1/obj/x86/Debug/Lab1.csprojAssemblyReference.cache
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/Lab 1/Lab1/Lab1/obj/x86/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/Lab 1/Lab1/Lab1/obj/x86/Debug/Lab1.exe
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/Lab 1/Lab1/Lab1/obj/x86/Debug/Lab1.pdb

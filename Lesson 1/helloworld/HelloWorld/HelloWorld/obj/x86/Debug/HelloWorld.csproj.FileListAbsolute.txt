@@ -1,0 +1,6 @@
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/helloworld/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/helloworld/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/helloworld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csprojAssemblyReference.cache
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/helloworld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/helloworld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/stefonii/Documents/School/WEB 180 - Active Server Pages/Lesson 1/helloworld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
