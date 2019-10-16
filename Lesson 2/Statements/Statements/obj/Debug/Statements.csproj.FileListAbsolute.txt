@@ -1,0 +1,6 @@
+C:\Users\snguy\Documents\School\Fall 2019\WEB 180\Statements\Statements\bin\Debug\Statements.exe
+C:\Users\snguy\Documents\School\Fall 2019\WEB 180\Statements\Statements\bin\Debug\Statements.pdb
+C:\Users\snguy\Documents\School\Fall 2019\WEB 180\Statements\Statements\obj\Debug\Statements.csprojResolveAssemblyReference.cache
+C:\Users\snguy\Documents\School\Fall 2019\WEB 180\Statements\Statements\obj\Debug\Statements.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Documents\School\Fall 2019\WEB 180\Statements\Statements\obj\Debug\Statements.exe
+C:\Users\snguy\Documents\School\Fall 2019\WEB 180\Statements\Statements\obj\Debug\Statements.pdb
