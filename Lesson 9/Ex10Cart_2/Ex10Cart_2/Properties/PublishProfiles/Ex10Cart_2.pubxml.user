@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAA5UHA5D7U06jbEsLY9KC1AAAAAACAAAAAAAQZgAAAAEAACAAAADfzZEjndZgxKVNpMFwp+earLA1G8SByvq2fEZhmAoDewAAAAAOgAAAAAIAACAAAABdmyn3PRcQVLluuwmvU6lHDwwrgpLWFadYBdjvfI4yDyAAAABxcFOtjegrAdpfst4a3qe7ufI2eOYfXDMKwIw5mN+L1EAAAACoeNS/CNI0EbSAoBNgMroHvGQQldMU5o/pZUysOC1hb6nLIZSDrWPDvKpYLIngUEuvoM6W4f7jQxmnZZG/mqHt</EncryptedPassword>
+    <_PublishTargetUrl>ftp://wcet3.waketech.edu/WEB180odd</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AboutUs.aspx">
+      <publishTime>10/22/2019 17:12:16</publishTime>
+    </File>
+    <File Include="App_Data/Halloween.mdf">
+      <publishTime>10/22/2019 17:32:09</publishTime>
+    </File>
+    <File Include="App_Data/Halloween_log.ldf">
+      <publishTime>10/22/2019 17:32:09</publishTime>
+    </File>
+    <File Include="bin/Ex10Cart_2.dll">
+      <publishTime>10/22/2019 17:34:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="Cart.aspx">
+      <publishTime>10/22/2019 15:58:29</publishTime>
+    </File>
+    <File Include="ContactUs.aspx">
+      <publishTime>10/22/2019 16:33:09</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Content/site.css">
+      <publishTime>10/22/2019 17:05:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/05/2016 17:13:04</publishTime>
+    </File>
+    <File Include="Images/banner.jpg">
+      <publishTime>04/05/2016 17:14:58</publishTime>
+    </File>
+    <File Include="Images/Products/arm1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/blacklight1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/cat1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/cool1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/fog1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/fogjuice1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/frank1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/freddy1.jpg">
+      <publishTime>04/05/2016 17:15:11</publishTime>
+    </File>
+    <File Include="Images/Products/head1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/head2.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/hippie1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/jarjar1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/martian1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/mummy1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/powers1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/rat1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/rat2.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/skel1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/skullfog1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/strobe1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/superman1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/tlm1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Images/Products/vader1.jpg">
+      <publishTime>04/05/2016 17:15:12</publishTime>
+    </File>
+    <File Include="Order.aspx">
+      <publishTime>10/22/2019 15:57:56</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Products.aspx">
+      <publishTime>10/22/2019 17:40:09</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>04/05/2016 17:14:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>04/05/2016 17:14:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>04/05/2016 17:14:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>04/05/2016 17:14:05</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>10/22/2019 15:53:37</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/22/2019 17:34:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
